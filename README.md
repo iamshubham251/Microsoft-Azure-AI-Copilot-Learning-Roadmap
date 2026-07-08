@@ -2,11 +2,23 @@
 
 <div align="center">
 
-![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial-Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-2EA043?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:8A2BE2&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]&fontSize=40&fontColor=fff&animation=fadeIn" />
+
+<a href="https://azure.microsoft.com">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+<a href="https://github.com/features/copilot">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com">
+  <img src="https://img.shields.io/badge/Microsoft_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Active-39FF14?style=for-the-badge&logo=statuspage&logoColor=black" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Cloud+%2B+AI+enthusiast;Building+on+Microsoft+Azure;Powered+by+GitHub+Copilot" />
 
 </div>
 
