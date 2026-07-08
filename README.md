@@ -1,5 +1,11 @@
 # ☁️ Microsoft Azure, AI & Copilot Learning Roadmap
 
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-purple?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-000000?style=for-the-badge&logo=github)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-258FFA?style=for-the-badge&logo=microsoft)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
 > A structured Microsoft Learn roadmap covering Azure, Artificial Intelligence, GitHub Copilot, and Azure AI Services.
 
 ---
