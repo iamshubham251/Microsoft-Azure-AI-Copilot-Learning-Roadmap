@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:8A2BE2&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]&fontSize=40&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:8A2BE2&height=200&section=header&text=Hi,%20I'm%20Shubham%20Pal&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
 <a href="https://azure.microsoft.com">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -13,12 +13,21 @@
 <a href="https://learn.microsoft.com">
   <img src="https://img.shields.io/badge/Microsoft_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<a href="https://www.microsoft.com/ai">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/Status-Active-39FF14?style=for-the-badge&logo=statuspage&logoColor=black" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Cloud+%2B+AI+enthusiast;Building+on+Microsoft+Azure;Powered+by+GitHub+Copilot" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Cloud+%2B+AI+Enthusiast;Building+on+Microsoft+Azure;Shipping+faster+with+GitHub+Copilot;Always+Learning+%F0%9F%9A%80" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubhampal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampal&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampal&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
